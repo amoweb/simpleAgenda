@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title><![CDATA[SimpleAgenda]]></title>
+	<author><![CDATA[Amaury G.]]></author>
+	<version>1.0</version>
+        <date>28/03/2015</date>
+	<site>http://amoweb.fr/</site>
+	<description><![CDATA[Ajout d'un simple agenda à PluXml]]></description>
+	<requirements></requirements>
+</document>
