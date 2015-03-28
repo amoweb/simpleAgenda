@@ -8,7 +8,7 @@ Fonctionnalités:
 
 ---
 
-PluXml plugin to display an agenda. Olds dates are automatically hidden.
+PluXml plugin to display an agenda. Old dates are automatically hidden.
 
 Features:
 - Periodic events
